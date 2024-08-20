@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/browse"
+        android:icon="@drawable/browse"
+        android:title="@string/browse" />
+    <item
+        android:id="@+id/my_cart"
+        android:icon="@drawable/shopping_cart"
+        android:title="@string/my_cart" />
+    <item
+        android:id="@+id/meal_plans"
+        android:icon="@drawable/calendar"
+        android:title="@string/meal_plans" />
+</menu>
